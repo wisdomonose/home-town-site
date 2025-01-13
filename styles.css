@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#hero {
+    background-image: url("image/town.jpeg");
+    background-size: cover;
+    padding: 10px 0 20px 0;
+    color: rgb(204, 220, 229);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#city-d {
+    background: #15645f;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 5px 0;
+}
+
+#city-c {
+    margin: o;
+    background: #7c2f4e;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.avatarg {
+    width: 150px;
+}
+ 
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background: #996ad292;
+    color: #322f41;
+    border-bottom: 8px solid #95d89f;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
